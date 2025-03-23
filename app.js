@@ -29,26 +29,117 @@
 // }
 
 
+// let customer01 = {
+//     name:"karunathilaka",
+//     address:"panadura",
+//     salary:7500.0
+// }
+
+// customerList.push([10,20,30,40,60]);
 
 
-let customerList = [
-    "saman",
-    "kamal",
-    "sunil",
-    "wimal",
-    "ranil",
-    "sirimal",
-    "somapala",
-    "sumanapala",
-    "karunapala",
-];
+// customerList.pop();
+// customerList.pop();
 
-let customer01 = {
-    name:"karunathilaka",
-    address:"panadura",
-    salary:7500.0
-}
+// customerList.shift()
+// customerList.shift()
 
-customerList.push([10,20,30,40,60]);
+// customerList.unshift("ss");
+// customerList.unshift("wq");
 
-console.log(customerList);
+// console.log(customerList);
+
+
+// First Step
+
+// let customerList = [
+//     "saman",
+//     "Aamal",
+//     "sunil",
+//     "Bimal",
+//     "ranil",
+//     "sirimal",
+//     "somapala",
+//     "sumanapala",
+//     {
+//         numbers:[10,20,30,40,50,60,70]
+//     },
+// ];
+
+// console.log(customerList[8].numbers[5]);
+
+
+// 02 Step 
+
+// let customerList2 = [
+//     "saman",
+//     "Aamal",
+//     "sunil",
+//     "Bimal",
+//     "ranil",
+//     "sirimal",
+//     "somapala",
+//     "sumanapala",
+//     {
+//         numbers:[10,20,30,
+//             {
+//                 letters:[
+//                     "A","B","C","D"
+//                 ]
+//             }
+//             ,50,60,70]
+//     },
+// ];
+
+// console.log(customerList2[8].numbers[3].letters[2]);
+
+
+// let index = customerList.indexOf("ranil");
+// console.log(customerList[index]="ss");
+
+// console.log(customerList);
+
+
+// customerList.push("")
+
+
+// console.log(customerList.includes("somapala"));
+
+
+
+// let letters = [
+//     "A","C","B","T","E","G","F"
+// ]
+
+// let numbers =[
+//     1,5,6,4,8,2,7,9
+// ]
+
+// console.log(customerList.sort());
+
+
+
+
+
+
+
+//   function showAlert(){
+//     Swal.fire({
+//         title: "The Internet?",
+//         text: "That thing is still around?",
+//         icon: "question"
+//       });
+//   }
+
+
+
+
+
+
+
+
+
+
+
+
+
